@@ -19,7 +19,7 @@ Vagrant::Config.run do |config|
     chef.add_recipe "geos"
     chef.add_recipe "proj4"
     chef.add_recipe "postgis"
-    chef.add_recipe "application"
+    chef.add_recipe "database"
   end
 
 end
