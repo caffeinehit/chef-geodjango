@@ -6,7 +6,7 @@ A set of recipes to set up all the libraries required to run
 Use them with your [Chef](http://wiki.opscode.com/display/chef/Home)
 instance, or with [Vagrant](http://vagrantup.com/)
 
-Make sure you customize 'cookbooks/database/attributes/default.rb'
+Make sure you customize `cookbooks/database/attributes/default.rb`
 to use your actual database user and database name.
 
 To try the setup out, do:
