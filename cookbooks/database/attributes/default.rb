@@ -1,2 +1,2 @@
-default[:database][:dbname] = ''
-default[:database][:dbuser] = ''
+default[:database][:dbname] = 'databaseuser'
+default[:database][:dbuser] = 'databasename'
